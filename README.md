@@ -1,9 +1,9 @@
 # Calculator 🤖
 
 Este projeto foi criado para a cadeira de *Infraestrutura de Hardware* da CESAR School!
-O objetivo é implementar uma calculadora programável em C, com foco em conversões de bases numéricas. 
+O objetivo é implementar uma calculadora C, com conversões de bases numéricas. 
 
-A calculadora pretende ser "didática" pois exibe os passos de cada operação, facilitando o aprendizado dos conceitos envolvidos em representação numérica.
+A calculadora pretende ser didática, pois exibe os passos de cada operação para facilir o aprendizado dos conceitos envolvidos em representação numérica.
 
 ## Funcionalidades 🚀:
 
